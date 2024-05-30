@@ -1,10 +1,10 @@
-# Primitive Types / Tipos Primitivos
-- Example of using compound data types in Delphi.
+# Composite types / Tipos Compostos
+- Example of using composite data types in Delphi.
 - Exemplo de uso dos tipos de dados compostos, no delphi.
 
 
 # Description / Descrição:
-- This example was created to illustrate the use of compound data types.
+- This example was created to illustrate the use of composite data types.
 - The content of this code is simply for learning purposes, therefore, I am not responsible for its misuse.
 
 - Esse exemplo foi criado para ilustrar o uso dos tipos de dados compostos.

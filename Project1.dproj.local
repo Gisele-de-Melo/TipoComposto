@@ -1,9 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <BorlandProject>
-  <Transactions>
-    <Transaction>2024/05/30 12:29:37.515,=D:\Projetos Delphi 11\Unit1.pas</Transaction>
-    <Transaction>2024/05/30 12:35:19.386,D:\Blog Delphi\projetos\TipoComposto\Unit1.pas=D:\Projetos Delphi 11\Unit1.pas</Transaction>
-    <Transaction>2024/05/30 12:35:19.386,D:\Blog Delphi\projetos\TipoComposto\Unit1.dfm=D:\Projetos Delphi 11\Unit1.dfm</Transaction>
-    <Transaction>2024/05/30 12:35:20.384,D:\Blog Delphi\projetos\TipoComposto\Project1.dproj=D:\Projetos Delphi 11\Project1.dproj</Transaction>
+	<Transactions>
+    <Transaction>2024/05/30 12:29:37.000.515,=D:\Projetos Delphi 11\Unit1.pas</Transaction>
+    <Transaction>2024/05/30 12:35:19.000.386,D:\Blog Delphi\projetos\TipoComposto\Unit1.pas=D:\Projetos Delphi 11\Unit1.pas</Transaction>
+    <Transaction>2024/05/30 12:35:19.000.386,D:\Blog Delphi\projetos\TipoComposto\Unit1.dfm=D:\Projetos Delphi 11\Unit1.dfm</Transaction>
+    <Transaction>2024/05/30 12:35:20.000.384,D:\Blog Delphi\projetos\TipoComposto\Project1.dproj=D:\Projetos Delphi 11\Project1.dproj</Transaction>
   </Transactions>
 </BorlandProject>

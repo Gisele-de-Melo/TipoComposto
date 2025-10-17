@@ -13,4 +13,4 @@ O conteúdo desse código é simplesmente em caráter de aprendizado, portanto, 
 # Blog
 - Content available at:
 - Conteúdo disponível em:
-  https://codedelphi.com/tipos-de-dados-compostos-do-delphi/
+  https://www.codedelphi.com/2024/06/tipos-de-dados-compostos-do-delphi.html
